@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 33cd8303c12d554418016d6b773d5924
+timeCreated: 1505587866
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Distant Galaxy
+  fontNames:
+  - Distant Galaxy
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
